@@ -1,0 +1,14 @@
+{
+  "name": "dockyard-server",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "server": "node main.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.4",
+    "express": "^4.16.3" 
+  },
+  "devDependencies": {
+  }
+}
